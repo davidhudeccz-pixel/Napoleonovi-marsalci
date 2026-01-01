@@ -1,0 +1,19 @@
+p {
+    text-align: justify;
+     padding-left: 425px;   
+  padding-right: 200px
+}
+section {
+  padding-left: 400px
+}
+body {
+  margin: 0;
+  background-color: #fec746;
+  border: 200px solid #3c1642;
+}
+.obsah {
+  margin: 0;
+  background-color: #fec746; 
+  padding-left: 200px;   
+  padding-right: px
+}
