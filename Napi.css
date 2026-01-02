@@ -5,5 +5,6 @@ body {
   border: 200px solid #3c1642;
 }
 p {
-  padding-right: 30%;
+  padding-right: 15%;
+  padding-left: 15%;
 }
