@@ -1,10 +1,9 @@
-
 body {
   margin: 0;
   background-color: #fec746;
   border: 200px solid #3c1642;
 }
 p {
-  padding-right: 15%;
-  padding-left: 15%;
+  padding-right: 25%;
+  padding-left: 25%;
 }
