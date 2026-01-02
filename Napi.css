@@ -2,6 +2,16 @@ body {
   margin: 0;
   background-color: #fec746;
   border: 200px solid #3c1642;
-    padding-right: 10%;
-  padding-left: 10%;
+}
+p {
+  padding-right: 25%;
+  padding-left: 25%;
+}
+.zdroje {
+  padding-right: 25%;
+  padding-left: 25%;
+}
+.autorství {
+  padding-right: 25%;
+  padding-left: 25%;
 }
